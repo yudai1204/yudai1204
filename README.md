@@ -1,16 +1,18 @@
-### Hi there 👋
+## yudai1204 / yudai04
+#### Portfolio Site
+https://yudai04.dev
 
-<!--
-**yudai1204/yudai1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Status
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yudai1204)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yudai1204&repo=ScombZ-Utilities)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yudai1204)
 -->
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudai1204&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yudai1204&count_private=true&show_icons=true&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yudai1204&column=8)](https://github.com/ryo-ma/github-profile-trophy)
