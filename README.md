@@ -16,3 +16,5 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yudai1204&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+![image](./github-metrics.svg)
